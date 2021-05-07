@@ -23,6 +23,7 @@ DISCLAIMER: Do NOT show Access Token or ClientID on stream.
 * _chat_login_
 * _channel_feed_read_
 * _chat:read_
+
 _PS: if you're lazy just select all, the bot will not use anything but what's listed above._
 
 7. Click Generate Token.
