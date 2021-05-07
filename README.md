@@ -86,7 +86,7 @@ Can i be your sponsor or partnership with you for free?
 > Yes anyone can for any of my bots, Message me on Discord or Twitter and we can discuss it.
 
 I want to support you but i don't have anything to spare, can i support you somehow?
-> By following me you support me, if you want to support me more then watching my streams, joining my community and/or having the Sponsor Logo on your Twitch page will help greatly as well as helping advertising the bots i have.
+> By following me you support me, if you want to support me more then watching my streams, joining my community and/or having the Sponsor Logo found below in Resources on your Twitch page will help greatly as well as helping advertising the bots i have.
 
 Something like this already exists, why make it?
 > There will always be something similar, but anything can be improved and made different, this program is *local* on your computer and can be edited to your liking.
