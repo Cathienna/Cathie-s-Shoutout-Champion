@@ -62,6 +62,9 @@ Where does it save my files?
 The program doesn't play the clip, why not?
 > This can be a few things like you have the program minimized, the channel doesn't have clips or you haven't set up the Twitchinformation properly, check those settings and if it still has issues contact me on Discord.
 
+I'm not an affiliate on twitch, can i use it?
+> Yes, this bot does not require any Affiliate features, it only reads your chat feed and posts in chat for no clips found if you have that setting enabled.
+
 I want some more features on this bot!
 > Message me on Discord or Twitter, i'll be happy to listen to the ideas!
 
