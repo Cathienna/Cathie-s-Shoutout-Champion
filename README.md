@@ -61,3 +61,12 @@ Where does it save my files?
 
 The program doesn't play the clip, why not?
 > This can be a few things like you have the program minimized, the channel doesn't have clips or you haven't set up the Twitchinformation properly, check those settings and if it still has issues contact me on Discord.
+
+I want some more features on this bot!
+> Message me on Discord or Twitter, i'll be happy to listen to the ideas!
+
+Can i be your sponsor or partnership with you for free?
+> Yes anyone can for any of my bots, Message me on Discord or Twitter and we can discuss it.
+
+I want to support you but i don't have anything to spare, can i support you somehow?
+> By following me you support me, if you want to support me more then watching my streams, joining my community and/or having the Sponsor Logo on your Twitch page will help greatly as well as helping advertising the bots i have.
