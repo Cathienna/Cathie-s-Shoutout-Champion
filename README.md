@@ -59,9 +59,7 @@ PS: (some pc's might not play clips properly if you minimize the program)
 > **[Tipping me](https://streamelements.com/cathienna/tip)** (If you want to support me)
 
 # Sponsors & People who use this bot
-> [Cathienna](https://www.twitch.tv/cathienna)
-> 
-> [LexLagger](https://www.twitch.tv/lexlagger)
+> **[LexLagger](https://www.twitch.tv/lexlagger)**
 
 # FAQ
 Where does it save my files?
