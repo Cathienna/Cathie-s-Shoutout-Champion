@@ -63,10 +63,15 @@ PS: (some pc's might not play clips properly if you minimize the program)
 
 # Sponsors & Partnerships
 > **[LexLagger](https://www.twitch.tv/lexlagger)**
+> 
+> **[BacNang](https://www.twitch.tv/bacnang)**
 
 # FAQ
+I have issues and i need help
+> Join my discord and post your issues in the Issues section, i'll help ASAP. https://discord.gg/8MQqy2nvs5
+
 Where does it save my files?
-> There is no saving right now, you have to adjust the settings each time.
+> There is no saving right now, you have to adjust the settings each time. (will be added in the next update(s)
 
 The program doesn't play the clip, why not?
 > This can be a few things like you have the program minimized, the channel doesn't have clips or you haven't set up the Twitchinformation properly, check those settings and if it still has issues contact me on Discord.
