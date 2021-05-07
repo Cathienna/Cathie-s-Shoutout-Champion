@@ -1,5 +1,8 @@
 ![PreviewImage](https://dl.dropboxusercontent.com/s/eam9vlz539w8olq/Cathies_Shoutout_Champion_2021-05-07_07-38-38.png)
 
+# What is this bot?
+This bot is a program that plays a random clip from the person you shoutout on you stream, it's a great way to advertise them and help them out as well as see some of their funny clips instead of having a boring simple text in the chat.
+
 # How to download:
 1. Go to [Download Here](https://github.com/Cathienna/Cathie-s-Shoutout-Champion/releases)
 2. Download the .rar file of the latest version.
