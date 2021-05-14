@@ -19,7 +19,6 @@ DISCLAIMER: Do NOT show Access Token or ClientID on stream.
 5. Select "Bot Chat Token" then authorize your twitch channel.
 6. Make sure the following is on YES:
 * _user_read_
-* _channel_read_
 * _chat_login_
 * _channel_feed_read_
 * _chat:read_
