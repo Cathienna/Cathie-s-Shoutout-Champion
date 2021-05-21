@@ -1,4 +1,4 @@
-![PreviewImage](https://dl.dropboxusercontent.com/s/eam9vlz539w8olq/Cathies_Shoutout_Champion_2021-05-07_07-38-38.png)
+![PreviewImage](https://dl.dropboxusercontent.com/s/9kqb81j7i4iek29/Cathies_Shoutout_Champion_2021-05-21_15-48-08.png)
 
 # What is this bot?
 This bot is a program that plays a random clip from the person you shoutout on you stream, it's a great way to advertise them and help them out as well as see some of their funny clips instead of having a boring simple text in the chat.
@@ -48,6 +48,9 @@ This Shoutout Bot has some options you can edit, each thing you can edit is real
 6. Chroma Key for Overlay = The color of the overlay you want to use for OBS Chroma Key Filter.
 7. Test Button = Just a simple test button to see if your settings are setup properly, it plays your own clips.
 8. Enable Shoutout Overlay = If you're all setup then Click this and you're all set.
+9. Reconnect/Disconnect/Connect Bot is only to be used if the bot doesnt work and you don't want to restart the bot, simple clicks.
+10. Reset/Load/Save Settings are self explanatory.
+11. ESC key on your keyboard will cancel and remove all clips in queue if pressed while you are focused on this window and the Overlay is active.
 
 PS: (some pc's might not play clips properly if you minimize the program)
 
