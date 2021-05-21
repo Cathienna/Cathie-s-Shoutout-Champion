@@ -13,8 +13,8 @@ If you have issues then please contact me on Discord or Twitter
 # How to install
 DISCLAIMER: Do NOT show Access Token or ClientID on stream.
 1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/cathienna)** and follow. (You can't use the bot otherwise, it's free)
-2. Go to the folder "Cathies Shoutout Champion_Data" and open the file "TwitchInformation.json" in notepad.
-3. Enter Your Channel Name
+2. Start Cathies Shoutout Champion.exe
+3. Enter Your Channel Name in the Text Box
 4. Generate an 'Access Token' **[HERE](https://twitchtokengenerator.com/)** (if using my other twitch bot, generate a new token to avoid errors)
 5. Select "Bot Chat Token" then authorize your twitch channel.
 6. Make sure the following is on YES:
@@ -26,17 +26,14 @@ DISCLAIMER: Do NOT show Access Token or ClientID on stream.
 _PS: if you're lazy just select all, the bot will not use anything but what's listed above._
 
 7. Click Generate Token.
-8. Copy Access Token into "Access Token" the file.
-9. Copy ClientID into "ClientID" into the file.
+8. Copy Access Token into "Access Token" the Text Box.
+9. Copy ClientID into "ClientID" into the Text Box.
 10. Save the file.
-
-Now you're ready to use the bot, start Cathies Shoutout Champion.exe
-
-1. In OBS make a new Source, select the bot.
-2. Right click the Source and add filter "Chroma Key".
-3. Set Similarity and Smoothness to 1
-4. Set color to what you have the R G B in the bot.
-5. Close the Filter window and enjoy the stream!
+11. In OBS make a new Source, select the bot.
+12. Right click the Source and add filter "Chroma Key".
+13. Set Similarity and Smoothness to 1 **(VERY VERY IMPORTANT)**
+14. Set color to what you have the R G B in the bot.
+15. Close the Filter window and enjoy the stream!
 
 # What each setting does
 This Shoutout Bot has some options you can edit, each thing you can edit is really simple, but here's the rundown of it:
