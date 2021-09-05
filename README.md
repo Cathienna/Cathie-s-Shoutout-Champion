@@ -52,7 +52,7 @@ This Shoutout Bot has some options you can edit, each thing you can edit is real
 PS: (some pc's might not play clips properly if you minimize the program)
 
 # How to support me and stay updated to the bot
-> **[Discord](https://discord.gg/8MQqy2nvs5)** (For future updates and support of the bot)
+> **[Discord](https://discord.gg/u6SpUpfMzy)** (For future updates and support of the bot)
 > 
 > **[Twitter](https://twitter.com/cathienna)** (A follow doesn't hurt)
 > 
