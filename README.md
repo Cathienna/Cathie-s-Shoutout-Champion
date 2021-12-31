@@ -91,5 +91,5 @@ Something like this already exists, why make it?
 > There will always be something similar, but anything can be improved and made different, this program is *local* on your computer and can be edited to your liking.
 
 # Resources
-Twitch Panel: (https://dl.dropboxusercontent.com/s/vfl455k76wabplg/Cathie%27s%20Shoutout%20Champion.png)
-![Twitch Panel](https://dl.dropboxusercontent.com/s/vfl455k76wabplg/Cathie%27s%20Shoutout%20Champion.png)
+Twitch Panel: (https://dl.dropboxusercontent.com/s/85n0774m7sg6sh6/Cathie%27s%20Shoutout%20Champion.png)
+![Twitch Panel](https://dl.dropboxusercontent.com/s/85n0774m7sg6sh6/Cathie%27s%20Shoutout%20Champion.png)
